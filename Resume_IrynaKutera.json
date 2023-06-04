@@ -1,0 +1,91 @@
+{
+  "basics": {
+    "name": "Iryna Kutera",
+    "email": "ira.kutera@gmail.com",
+    "phone": "8(029)54-67-807",
+    "LinkedIn": "https://www.linkedin.com/in/%D0%B8%D1%80%D0%B8%D0%BD%D0%B0-%D0%BA%D1%83%D1%82%D0%B5%D1%80%D0%B0-31b840211",
+    "location": {
+      "address": "39 denisovskaya street",
+      "zip": "220006",
+      "city": "Minsk"
+    },
+    "work": [
+    {
+      "company": "ООО Висма-строй",
+      "position": "manager",
+      "website": "https://visma-stroy.by/",
+      "startDate": "2018.08.29",
+      "endDate": "2023.02.08",
+      "summary": "Sales manager, in a wholesale company, metal manufacturer"
+     }
+  ],
+  "education": [
+    {
+      "institution": "Belarusian State Agrarian Technical University",
+      "specialization": "energy engineer",
+      "startDate": "2012.09.01",
+      "endDate": "2017.07.01",
+      "gpa": 7
+    }
+  ],	
+  "skills": [
+    {
+      "name": "1C:Enterprise 8",
+      "level": "Advanced",
+      "keywords": [
+        "1C8", "1C:Enterprise", "1C:ERP", "1C:Accounting", "1C:Sales", "1C:Inventory", "1C:Payroll"
+      ]
+    },
+    {
+      "name": "amoCRM",
+      "level": "Advanced",
+      "keywords": [
+        "amoCRM", "CRM software", "lead management", "sales automation", "customer relationship management"
+      ]
+    },
+    {
+      "name": "Bitrix24",
+      "level": "Beginner",
+      "keywords": [
+        "Bitrix24", "intranet software", "collaboration tools", "task management", "document management"
+      ]
+    },
+    {
+      "name": "MS Office",
+      "level": "Advanced",
+      "keywords": [
+        "MS Office", "Microsoft Office", "Word", "Excel", "PowerPoint", "Outlook", "Office 365"
+      ]
+    },
+    {
+      "name": "Communication Skills",
+      "level": "Advanced",
+      "keywords": [
+         "communication skills", "interpersonal skills", "verbal communication", "written communication", "listening skills", "presentation skills", "negotiation skills"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Russian",
+      "fluency": "Native"
+    },
+    {
+      "language": "English",
+      "fluency": "Beginner"
+    },
+    {
+      "language": "German",
+      "fluency": "Beginner"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Sports",
+      "keywords": [
+        "Running", "Tennis", "volleyball"
+      ]
+    }
+  ]
+}
+}
